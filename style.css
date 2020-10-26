@@ -19,6 +19,9 @@ body {
   margin-right: 5vmin;
   background: red;
 }
+#theSecondBlock {
+  background: green;
+}
 p {
   margin-bottom: 2vmin;
   text-indent: 2%;
