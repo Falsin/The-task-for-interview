@@ -14,6 +14,7 @@ body {
 #blocks div {
   width: 50%;
   height: auto;
+  padding: 0.5vmin;
 }
 #theFirstBlock {
   margin-right: 5vmin;
