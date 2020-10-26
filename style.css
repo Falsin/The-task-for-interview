@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#blocks {
+  display: flex;
+}
+#blocks div {
+  width: 50%;
+  height: auto;
+}
+#theFirstBlock {
+  margin-right: 5vmin;
+  background: red;
+}
+p {
+  margin-bottom: 2vmin;
+  text-indent: 2%;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 2vmin;
+}
+ol {
+  display: block;
+}
+li {
+  list-style-position: inside;
+  margin-bottom: 1vmin;
+}
+a {
+  color: white;
+}
+input {
+  padding: 0.5vmin;
+  cursor: pointer;
+}
+#button {
+  display: flex;
+  justify-content: center;
+  padding-top: 2vmin;
+  padding-bottom: 2vmin;
+}
